@@ -1,0 +1,21 @@
+C:\Users\Click\source\repos\Console Ai ChatBot Demo\Console Ai ChatBot Demo\bin\Debug\net6.0\Console Ai ChatBot Demo.exe
+C:\Users\Click\source\repos\Console Ai ChatBot Demo\Console Ai ChatBot Demo\bin\Debug\net6.0\Console Ai ChatBot Demo.deps.json
+C:\Users\Click\source\repos\Console Ai ChatBot Demo\Console Ai ChatBot Demo\bin\Debug\net6.0\Console Ai ChatBot Demo.runtimeconfig.json
+C:\Users\Click\source\repos\Console Ai ChatBot Demo\Console Ai ChatBot Demo\bin\Debug\net6.0\Console Ai ChatBot Demo.dll
+C:\Users\Click\source\repos\Console Ai ChatBot Demo\Console Ai ChatBot Demo\bin\Debug\net6.0\Console Ai ChatBot Demo.pdb
+C:\Users\Click\source\repos\Console Ai ChatBot Demo\Console Ai ChatBot Demo\obj\Debug\net6.0\Console Ai ChatBot Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Click\source\repos\Console Ai ChatBot Demo\Console Ai ChatBot Demo\obj\Debug\net6.0\Console Ai ChatBot Demo.AssemblyInfoInputs.cache
+C:\Users\Click\source\repos\Console Ai ChatBot Demo\Console Ai ChatBot Demo\obj\Debug\net6.0\Console Ai ChatBot Demo.AssemblyInfo.cs
+C:\Users\Click\source\repos\Console Ai ChatBot Demo\Console Ai ChatBot Demo\obj\Debug\net6.0\Console Ai ChatBot Demo.csproj.CoreCompileInputs.cache
+C:\Users\Click\source\repos\Console Ai ChatBot Demo\Console Ai ChatBot Demo\obj\Debug\net6.0\Console Ai ChatBot Demo.dll
+C:\Users\Click\source\repos\Console Ai ChatBot Demo\Console Ai ChatBot Demo\obj\Debug\net6.0\refint\Console Ai ChatBot Demo.dll
+C:\Users\Click\source\repos\Console Ai ChatBot Demo\Console Ai ChatBot Demo\obj\Debug\net6.0\Console Ai ChatBot Demo.pdb
+C:\Users\Click\source\repos\Console Ai ChatBot Demo\Console Ai ChatBot Demo\obj\Debug\net6.0\Console Ai ChatBot Demo.genruntimeconfig.cache
+C:\Users\Click\source\repos\Console Ai ChatBot Demo\Console Ai ChatBot Demo\obj\Debug\net6.0\ref\Console Ai ChatBot Demo.dll
+C:\Users\Click\source\repos\Console Ai ChatBot Demo\Console Ai ChatBot Demo\bin\Debug\net6.0\Azure.AI.OpenAI.dll
+C:\Users\Click\source\repos\Console Ai ChatBot Demo\Console Ai ChatBot Demo\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Click\source\repos\Console Ai ChatBot Demo\Console Ai ChatBot Demo\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Click\source\repos\Console Ai ChatBot Demo\Console Ai ChatBot Demo\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Click\source\repos\Console Ai ChatBot Demo\Console Ai ChatBot Demo\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Click\source\repos\Console Ai ChatBot Demo\Console Ai ChatBot Demo\obj\Debug\net6.0\Console Ai ChatBot Demo.csproj.AssemblyReference.cache
+C:\Users\Click\source\repos\Console Ai ChatBot Demo\Console Ai ChatBot Demo\obj\Debug\net6.0\Console Ai ChatBot Demo.csproj.CopyComplete
